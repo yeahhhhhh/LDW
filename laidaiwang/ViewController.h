@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  laidaiwang
+//  YPTabBarController
 //
-//  Created by 黄欣 on 16/6/13.
-//  Copyright © 2016年 黄欣. All rights reserved.
+//  Created by 喻平 on 15/8/11.
+//  Copyright (c) 2015年 YPTabBarController. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
